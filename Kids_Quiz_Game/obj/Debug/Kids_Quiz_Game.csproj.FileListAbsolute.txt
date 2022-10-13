@@ -1,0 +1,14 @@
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\bin\Debug\Kids_Quiz_Game.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\bin\Debug\Kids_Quiz_Game.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\bin\Debug\Kids_Quiz_Game.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.Form2.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.Form3.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 4\Kids_Quiz_Game\Kids_Quiz_Game\obj\Debug\Kids_Quiz_Game.Form4.resources
